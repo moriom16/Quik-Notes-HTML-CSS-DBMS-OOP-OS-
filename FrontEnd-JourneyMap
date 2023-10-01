@@ -1,0 +1,89 @@
+1. Playing with Binary Data
+Arraybuffer
+TypedArray-UINT8, UINT16
+DataView
+Blobs
+
+2. Network
+WebSocket
+Streams
+WebRTC 
+http/2
+Quic
+
+3. Media
+Media Stream
+Media Recorder
+Screen Capture
+Media Devices
+
+4. DOM
+DOM API
+Intersection Observer
+Mutation Observer
+Resize Observer 
+iframes
+
+5. Data Storage
+Cookies
+Session & local storage
+IndexedDB
+Clipboard 
+File Reader
+
+6. Performance 
+Web Workers 
+Web Vitals
+Memory Profiling 
+
+
+7. Graphics
+Canvas
+WebGL
+WebAnimations
+
+8. Security
+Trusted Type
+Permission 
+Encoding
+CSP,XSS, mime sniff
+
+9. Build
+Tree Shaking
+Code Splitting
+Hot Module Replacement 
+Transpilers & Polyfills
+
+10. Asset
+prefatch,preload & preconnect
+Compress using gzip,brotli
+Dynamic Image Loading 
+Lossy & Lossless conversion
+Pixel density & PPI
+
+Additionally 
+1. SEO
+2. Lazy Load
+3. Error Boundaries 
+4. web workers 
+5. IndexDB
+6. Token, Cookies & JWT
+7. Performance Checker
+8. PWA
+9. Realtime 
+10. CSS performance 
+11. Advanced Hooks
+12. Test driven development 
+13. Building a design System 
+14. Formatting Data
+15. Public & Private Routing Mechanism
+16. Authentication Flow
+17. Redux Architecture 
+18. Middleware
+
+
+
+
+
+
+
