@@ -13,9 +13,17 @@ https://drive.google.com/file/d/1O1z88oBv0itO2uEjqy1C_n8RQuror8wr/view?usp=drive
 Avoid Mistakes as JavaScript Developer
 https://drive.google.com/file/d/1NxnFc0PAEeU7OmCsOmtI-1nEzmoaAeQD/view?usp=drivesdk 
 
+Module-1 & 2 HandNote 
+https://drive.google.com/file/d/1TmcYr2U-5Uh8fQg1VASrMzUWgQmNUIqw/view?usp=sharing
+
 Module-3 HandNote 
 https://drive.google.com/file/d/1O26syn_3ArAAv-M0h3KNZTVZuxyvAGPp/view?usp=drivesdk
 
+Module-4(1) HandNote 
+https://drive.google.com/file/d/1TQlPU6hSA6HVH7UbLPdGk6cQrvsZKuuM/view?usp=sharing
+
+Module-4(2) HandNote 
+https://drive.google.com/file/d/1TTrmXFr1_pK13B2CZszcNGOwzHS2ny3N/view?usp=sharing
 
 
 
